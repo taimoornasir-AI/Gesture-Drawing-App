@@ -267,7 +267,9 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by Usman Danial
+**Taimoor Nasir**
+
+- GitHub: [https://github.com/taimoornasir-AI](https://github.com/taimoornasir-AI)
 
 ## 🙏 Acknowledgments
 
@@ -278,8 +280,7 @@ Created with ❤️ by Usman Danial
 ## 📧 Contact
 
 For questions or suggestions:
-- Open an issue on GitHub
-- Email: usmandanial0@gmail.com
+- Open an issue on [GitHub](https://github.com/taimoornasir-AI)
 
 ---
 
